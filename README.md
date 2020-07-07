@@ -1,7 +1,6 @@
 # Tutorial
 Tutorial notes by xiachang. 
+个人学习笔记、教程
 
-个人学习笔记，下面为笔记目录。
-
-1. Python
-2. Vue
+|__ 1. Python
+|__ 2. Vue
